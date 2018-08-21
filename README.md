@@ -8,7 +8,7 @@
 
 [BlackDapp](./BlackDapp/All_Implementations.md) Subject: Gaming / Randomness
 
-[AttendanceCoin](./AttendanceCoin/all_implementation.md) Subject: ERC20 Fungible Coin 
+[AttendanceCoin](./AttendanceCoin/all_implementation.md) Subject: ERC20 / Fungible / Coin 
 
 ## Level 2 Apps
 
