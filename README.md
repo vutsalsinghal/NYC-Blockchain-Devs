@@ -6,9 +6,9 @@
 
 [Lottery](Lottery/all_implementations.md) Subject: Gaming / Randomness / Contract
 
-[BlackDapp Randomness](/BlackDapp/all_implementations.md) Subject: Gaming / Randomness
+[BlackDapp Randomness](BlackDapp/all_implementations.md) Subject: Gaming / Randomness
 
-[AttendanceCoin](/AttendanceCoin/all_implementations.md) Subject: ERC20 Fungible Coin 
+[AttendanceCoin](AttendanceCoin/all_implementations.md) Subject: ERC20 Fungible Coin 
 
 ## Level 2 Apps
 
