@@ -4,6 +4,9 @@ go to that page to view all [Topics](TOPICS.md)
 
 ## Beginner tasks
 
+- read https://github.com/ethereumbook/ethereumbook
+- complete http://cryptozombies.io/
+- suggested udemy course https://www.udemy.com/ethereum-and-solidity-the-complete-developers-guide/
 - use https://remix.ethereum.org
 - in remix, deploy a contract and interact with it
 - use AttendanceCoin Faucet, receive AC, lookup your AC balance
