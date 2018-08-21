@@ -1,6 +1,6 @@
 ## Topic list
 
-- ~~Lottrey~~
+- ~~Lottery~~
 - ~~BlackDapp~~
 - Attendance Coin
   - ~~ERC20~~
