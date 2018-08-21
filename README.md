@@ -1,6 +1,22 @@
 # NYC-Blockchain-Devs
 
-## Description
+go to that page to view all [Topics](TOPICS.md) 
+
+## Level 1 Apps
+
+[Lottery](./Lottery/all_implementations.md) Subject: Gaming / Randomness / Contract
+
+[BlackDapp](./BlackDapp/All_Implementations.md) Subject: Gaming / Randomness
+
+[AttendanceCoin](./AttendanceCoin/all_implementation.md) Subject: ERC20 / Fungible / Coin 
+
+## Level 2 Apps
+
+TODO
+
+## Level 3 Apps
+
+TODO
 
 
 ## Join meetup
