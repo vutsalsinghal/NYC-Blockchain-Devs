@@ -1,6 +1,6 @@
 # NYC-Blockchain-Devs
 
-## Description
+go to that page to view all [Topics](TOPICS.md) 
 
 ## Level 1 Apps
 
