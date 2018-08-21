@@ -4,21 +4,20 @@ go to that page to view all [Topics](TOPICS.md)
 
 ## Beginner tasks
 
-- read https://github.com/ethereumbook/ethereumbook
-- complete http://cryptozombies.io/
-- suggested udemy course https://www.udemy.com/ethereum-and-solidity-the-complete-developers-guide/
-- use https://remix.ethereum.org
-- in remix, deploy a contract and interact with it
-- use AttendanceCoin Faucet, receive AC, lookup your AC balance
-- build a ReactJs UI and it should interact with your Contract
+- Read https://github.com/ethereumbook/ethereumbook
+- Complete http://cryptozombies.io/
+- Suggested course https://www.udemy.com/ethereum-and-solidity-the-complete-developers-guide/
+- Use https://remix.ethereum.org
+- In remix, deploy a contract and interact with it
+- Build a ReactJs UI to interact with your Contract.
 
 ## Level 1 Apps
 
-[Lottery](./Lottery/all_implementations.md) Subject: Gaming / Randomness / Contract
-
-[BlackDapp](./BlackDapp/All_Implementations.md) Subject: Gaming / Randomness
-
-[AttendanceCoin](./AttendanceCoin/all_implementation.md) Subject: ERC20 / Fungible / Coin 
+|                     Topic                                |       Attributes         |
+|----------------------------------------------------------|--------------------------|
+| [Lottery](./Lottery/all_implementations.md)              | Gaming / Randomness      |
+| [BlackDapp](./BlackDapp/All_Implementations.md)          | Gaming / Randomness      |
+| [AttendanceCoin](./AttendanceCoin/all_implementation.md) | ERC20 / Fungible / Coin  |
 
 ## Level 2 Apps
 
