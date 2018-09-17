@@ -1,15 +1,19 @@
 # NYC-Blockchain-Devs
 
-go to that page to view all [Topics](TOPICS.md) 
+## Resources
 
-## Beginner tasks
+- Read [The Ethereum Book](https://github.com/ethereumbook/ethereumbook)
+- Suggested course https://www.udemy.com/ethereum-and-solidity-the-complete-developers-guide
+- Use [Remix - online solidity IDE](https://remix.ethereum.org)
+- List of Dapps created by fellow ppl in the meetup [here](TOPICS.md).
 
-- Read https://github.com/ethereumbook/ethereumbook
-- Complete http://cryptozombies.io/
-- Suggested course https://www.udemy.com/ethereum-and-solidity-the-complete-developers-guide/
-- Use https://remix.ethereum.org
-- In remix, deploy a contract and interact with it
-- Build a ReactJs UI to interact with your Contract.
+### How Do I Start Coding!
+
+|                    Site                     |                    |
+|---------------------------------------------|--------------------|
+|[Cryptozombies](http://cryptozombies.io)| Codecademy for Solidity |
+|[Chainshot](https://www.chainshot.com) | Solve some challenges | 
+|[CaptureTheEther](https://capturetheether.com)| Contract security |
 
 ## Level 1 Apps
 
@@ -17,7 +21,7 @@ go to that page to view all [Topics](TOPICS.md)
 |----------------------------------------------------------|--------------------------|
 | [Lottery](./Lottery/all_implementations.md)              | Gaming / Randomness      |
 | [BlackDapp](./BlackDapp/All_Implementations.md)          | Gaming / Randomness      |
-| [AttendanceCoin](./AttendanceCoin/all_implementation.md) | ERC20 / Fungible / Coin  |
+| [AttendanceCoin](./AttendanceCoin/all_implementation.md) | ERC20 & ERC721 Coins     |
 
 ## Level 2 Apps
 
