@@ -34,7 +34,7 @@ Long ago, before pretty buttons and nice menus were an absolute must-have, or ev
 But if we have pretty buttons and nice menus, why would anyone prefer to use a shell now? It seems a bit primitive, I know. Thousands of man hours dedicated to developing beautiful GUIs, and here we are typing on a small black screen with green h4ck3r text. But it's way faster to type a command than to click a button. You can run your code straight from the command line, as long as you've installed the compiler. Make a new directory? `mkdir`. Create a new document? `touch new-document.txt`. Open that directory you just created? `open [name of your directory]`. Force quit an unresponsive application...?
 
 <p align="center">
-  <img src="../images/-kill.gif" width="400" title="Lee Gaines on Medium">
+  <img src="../images/-kill.gif" title="Lee Gaines on Medium">
 </p>
 
 Wait what...?
