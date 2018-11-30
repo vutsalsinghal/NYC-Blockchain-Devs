@@ -6,7 +6,9 @@
 
 Slack is where we'll be communicating with each other the most. It's where we discuss our ideas, ask our questions and post our resources. If you haven't already, download **[Slack](https://slack.com/downloads/)**.
 
-![slack-meme](../images/slack-tweet.png)
+<p align="center">
+  <img src="../images/slack-tweet.png" width="256" title="@iamdevloper">
+</p>
 
 ... or just use the web version.
 
@@ -31,7 +33,9 @@ Long ago, before pretty buttons and nice menus were an absolute must-have, or ev
 
 But if we have pretty buttons and nice menus, why would anyone prefer to use a shell now? It seems a bit primitive, I know. Thousands of man hours dedicated to developing beautiful GUIs, and here we are typing on a small black screen with green h4ck3r text. But it's way faster to type a command than to click a button. You can run your code straight from the command line, as long as you've installed the compiler. Make a new directory? `mkdir`. Create a new document? `touch new-document.txt`. Open that directory you just created? `open [name of your directory]`. Force quit an unresponsive application...?
 
-![-kill](../images/-kill.gif)
+<p align="center">
+  <img src="../images/-kill.gif" width="400" title="Lee Gaines on Medium">
+</p>
 
 Wait what...?
 
@@ -59,7 +63,11 @@ You can update brew with... wait for it... `brew update`.
 
 ### Git
 [What is Git?](https://git-scm.com/downloads) It's just a form of tracking changes to your code.
-![version-control](../images/version-control.png)
+
+<p align="center">
+  <img src="../images/version-control.png" width="400" title="from r/programmerhumor">
+</p>
+
 If you were ever guilty of creating a new save file for every change you ever made on a file. It's like that, but more organized. Version control is incredibly important when you want to keep track of every version of a file you've ever created. The heavens forbid, you end up like Snapchat with their series of unfortunate UI updates, only to be met by confused users **begging** for the older version back! Worse comes to worst, if a new function breaks your code, you can always go back to a past version. Oh, and you can collaborate with other people on your code. Or theirs. And this is where open source contributions come from.
 
 The neat thing about git is that you can use it either with the command line interface, or you can download an app with a GUI so you can see what branching and merging actually looks like.
