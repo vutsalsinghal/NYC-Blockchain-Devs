@@ -27,7 +27,7 @@ If you already have a bit of dev experience, you can
 
 ### Books
 
-| [Mastering Ethereum][1] | Complete? | Test |
+| Mastering Ethereum | Complete? | Test |
 |----|----|----|
 | [Chapter 1: What Is Ethereum?](https://github.com/ethereumbook/ethereumbook/blob/develop/01what-is.asciidoc) | | Link Here |
 | [Chapter 2: Ethereum Basics](https://github.com/ethereumbook/ethereumbook/blob/develop/02intro.asciidoc)| | Link Here |
@@ -45,7 +45,7 @@ If you already have a bit of dev experience, you can
 | [Chapter 14: Consensus](https://github.com/ethereumbook/ethereumbook/blob/develop/14consensus.asciidoc) | | |  
 | [Chapter 1]() | | Linke here|  
 
-[1][Mastering Ethereum can be purchased on [Amazon](https://www.amazon.com/Mastering-Ethereum-Building-Smart-Contracts/dp/1491971940)]
+[Mastering Ethereum can be purchased on Amazon](https://www.amazon.com/Mastering-Ethereum-Building-Smart-Contracts/dp/1491971940)]
 
 ### Readings:
 
