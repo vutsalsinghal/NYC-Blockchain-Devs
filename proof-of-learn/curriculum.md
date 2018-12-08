@@ -1,9 +1,10 @@
 # Curriculum
 
-Blockchain technology is a vast
+## Section 1
 
-## Module 1: Total Beginner
 
+
+---
 
 - [Setting up your dev environment](module-1.md)
 
@@ -20,9 +21,40 @@ Blockchain technology is a vast
 - [A Deep Dive on End-to-End Encryption: How Do Public Key Encryption Systems Work?](https://ssd.eff.org/en/module/deep-dive-end-end-encryption-how-do-public-key-encryption-systems-work)
 
 
+## Section 2
+
+If you already have a bit of dev experience, you can
+
+### Books
+
+| [Mastering Ethereum][1] | Complete? | Test |
+|----|----|----|
+| [Chapter 1: What Is Ethereum?](https://github.com/ethereumbook/ethereumbook/blob/develop/01what-is.asciidoc) | | Link Here |
+| [Chapter 2: Ethereum Basics](https://github.com/ethereumbook/ethereumbook/blob/develop/02intro.asciidoc)| | Link Here |
+| [Chapter 3: Ethereum Clients](https://github.com/ethereumbook/ethereumbook/blob/develop/03clients.asciidoc)| | Link Here|
+| [Chapter 4: Cryptography](https://github.com/ethereumbook/ethereumbook/blob/develop/04keys-addresses.asciidoc) | | |  
+| [Chapter 5: Wallets](https://github.com/ethereumbook/ethereumbook/blob/develop/05wallets.asciidoc) | | |  
+| [Chapter 6: Transactions](https://github.com/ethereumbook/ethereumbook/blob/develop/06transactions.asciidoc) | | |  
+| [Chapter 7: Smart Contracts and Solidity](https://github.com/ethereumbook/ethereumbook/blob/develop/07smart-contracts-solidity.asciidoc) | | |  
+| [Chapter 8: Smart Contracts and Vyper](https://github.com/ethereumbook/ethereumbook/blob/develop/08smart-contracts-vyper.asciidoc) | | |  
+| [Chapter 9: Smart Contract Security](https://github.com/ethereumbook/ethereumbook/blob/develop/09smart-contracts-security.asciidoc) | | |  
+| [Chapter 10: Tokens](https://github.com/ethereumbook/ethereumbook/blob/develop/10tokens.asciidoc) | | |  
+| [Chapter 11: Oracles](https://github.com/ethereumbook/ethereumbook/blob/develop/11oracles.asciidoc) | | |  
+| [Chapter 12: Decentralized Applications](https://github.com/ethereumbook/ethereumbook/blob/develop/12dapps.asciidoc) | | |  
+| [Chapter 13: The Ethereum Virtual Machine](https://github.com/ethereumbook/ethereumbook/blob/develop/13evm.asciidoc) | | |  
+| [Chapter 14: Consensus](https://github.com/ethereumbook/ethereumbook/blob/develop/14consensus.asciidoc) | | |  
+| [Chapter 1]() | | Linke here|  
+
+[1][Mastering Ethereum can be purchased on [Amazon](https://www.amazon.com/Mastering-Ethereum-Building-Smart-Contracts/dp/1491971940)]
+
+### Readings:
+
+
+### Courses:
+
 ## Module 2:
 
-- [Chapter 1 of **Mastering Ethereum**](https://github.com/ethereumbook/ethereumbook/blob/develop/01what-is.asciidoc)
+-
 
 - [Truffle's Ethereum Overview](https://truffleframework.com/tutorials/ethereum-overview)
 
@@ -33,7 +65,7 @@ Blockchain technology is a vast
 
 ## Module 3:
 
-  [Chapter 2 of **Mastering Ethereum**](https://github.com/ethereumbook/ethereumbook/blob/develop/02intro.asciidoc)
+
 
   [Business Model of Crypto Wallets](https://hackernoon.com/the-business-model-of-crypto-wallets-89aeed8322dc)
 
@@ -54,4 +86,4 @@ Assignment suggestions:
 Repo Suggestions:
 1. Have another branch for submissions, so that's where people will push to have their "tests graded" and ATC awarded.
 2. Add a .gitignore
-3. change name for 
+3. change name for
