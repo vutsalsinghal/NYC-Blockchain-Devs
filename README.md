@@ -6,6 +6,7 @@
 - Suggested course https://www.udemy.com/ethereum-and-solidity-the-complete-developers-guide
 - Use [Remix - online solidity IDE](https://remix.ethereum.org)
 - List of Dapps created by fellow ppl in the meetup [here](TOPICS.md).
+- List of [developer tools as listed by ConsenSys](https://github.com/ConsenSys/ethereum-developer-tools-list)
 
 ### How Do I Start Coding!
 
